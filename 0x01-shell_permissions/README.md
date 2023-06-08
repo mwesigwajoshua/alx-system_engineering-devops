@@ -10,3 +10,4 @@
 9-John_Doe setting the mode of  hello as indicated
 10-mirror_permissions mirrors permissions
 11-directories_permissions permissions for directories
+12-directory_permissions
