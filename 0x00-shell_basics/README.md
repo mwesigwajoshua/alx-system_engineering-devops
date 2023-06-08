@@ -1,1 +1,1 @@
-The 0-current_working_directory script indicates a working directory
+The 1-listit script indicates contents list of a working directory
