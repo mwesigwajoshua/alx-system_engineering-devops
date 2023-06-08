@@ -1,1 +1,1 @@
-11-lists in long format
+12-file_type prints type of file
