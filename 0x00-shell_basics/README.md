@@ -1,1 +1,1 @@
-The 2-bring_me_home script changes the working directory to the user’s home directory
+The 3-listfiles Display current directory contents in a long format
