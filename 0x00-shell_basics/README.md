@@ -1,1 +1,1 @@
-The 1-listit script indicates contents list of a working directory
+The 2-bring_me_home script changes the working directory to the user’s home directory
