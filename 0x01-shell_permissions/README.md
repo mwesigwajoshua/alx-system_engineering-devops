@@ -8,3 +8,4 @@
 7-everybody permission to everybody
 8-James_Bond give all permissions to other user and remove all from the owner and group users
 9-John_Doe setting the mode of  hello as indicated
+10-mirror_permissions mirrors permissions
