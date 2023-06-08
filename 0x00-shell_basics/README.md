@@ -1,1 +1,1 @@
-10-back takes you to previous directory
+11-lists in long format
