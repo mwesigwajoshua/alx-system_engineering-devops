@@ -6,3 +6,4 @@
 5-execute adds execute permission to owner of hello
 6-multiple_permissions granting multiple permissions
 7-everybody permission to everybody
+8-James_Bond give all permissions to other user and remove all from the owner and group users
