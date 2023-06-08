@@ -1,1 +1,1 @@
-6-firstdirectory creates a directory in another diriectory 
+7-movethatfile moves a file from one directory to another 
