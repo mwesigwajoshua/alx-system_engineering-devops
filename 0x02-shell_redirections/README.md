@@ -6,3 +6,4 @@
 6-third_line prints the 3 line
 7-file creates a file
 8-cwd_state copies results
+11-directories
